@@ -4,6 +4,7 @@
         "@type": "Organization",
         "name": "De.Fi",
         "url": "https://de.fi/",
+
         "logo": "https://de.fi/blog/wp-content/uploads/2023/06/cropped-cropped-spaces_XOyvZ43P03BZ8mN6KNWT_icon_1hV2Waqet2YS2jtkV0f3_Logo.webp",
         "description": "De.Fi is the Inventor of Crypto's First Antivirus  -  the multi-layer security solution that automatically audits crypto smart contracts and analyzes assets' liquidity. As well as the Web3 SuperApp - Crypto's Largest Portfolio Dashboards that supports 50+ blockchains and 450+ protocols.",
         "sameAs": [
